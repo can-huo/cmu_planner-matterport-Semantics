@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="segmentation_proc" exec="habitat_open3d_online.py" name="habitat_open3d_online" output="screen"/>
+</launch>
